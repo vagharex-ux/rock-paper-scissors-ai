@@ -1,0 +1,2 @@
+app_link: https://rock-paper-sciapprs-ai-a8u5cxtmw3b38xdjmhpigt.streamlit.app
+github_repo_link: https://github.com/vagharex-ux/rock-paper-scissors-ai/blob/main/app.py
